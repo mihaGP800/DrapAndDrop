@@ -1,0 +1,14 @@
+.usersContainer {
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    flex: 0 1 40%;
+    background-color: lightgray;
+
+    .personsBlock {
+        width: 100%;
+        height: 100%;
+        margin: 20px 0;
+        background-color: #ffffff;
+    }
+}

@@ -1,0 +1,19 @@
+.personBlock {
+  background-color: lightblue;
+  border: 1px solid;
+  margin: 4px 10px;
+  padding: 2px;
+  text-align: center;
+  cursor: grab;
+  transition: 0.2s;
+}
+
+.hoverBlock {
+  background-color: #d07e52;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+}
+
+.replaceBlock {
+  background-color: #8bff60;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
